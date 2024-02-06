@@ -1,0 +1,14 @@
+{
+  "name": "suitecloud-project",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest --watchAll --verbose --coverage",
+    "validate": "suitecloud project:deploy --dryrun",
+    "deploy": "suitecloud project:deploy"
+  },
+  "devDependencies": {
+    "jest": "29.5.0",
+    "@types/jest": "29.4.0",
+    "@oracle/suitecloud-unit-testing": "^1.3.1"
+  }
+}
