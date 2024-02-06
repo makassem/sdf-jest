@@ -28,7 +28,7 @@ Two Suitelets are included:
 - `jsconfig.json`: Configuration for JavaScript language services in Visual Studio Code, including type acquisition for Jest.
 - `jest.config.js`: Configuration for the Jest testing framework, including SuiteCloud project folder and type.
 
-## Pre-requisites (Setting up Environment & SDF)
+## Pre-requisites (Environment & SDF Setup)
 
 ### 1. Install Visual Studio Code (IDE)
 
@@ -124,4 +124,4 @@ Released under the Universal Permissive License v1.0 as shown at [https://oss.or
 
 ## Disclaimer
 
-This project is entirely opinionated and is not officially supported by Oracle + NetSuite Inc. The sample code included herein is provided on an "as is" basis, without warranty of any kind, to the fullest extent permitted by law. Oracle + NetSuite Inc. does not warrant or guarantee the individual success developers may have in implementing the sample code on their development platforms or in using their own Web server configurations. Oracle + NetSuite Inc. does not warrant, guarantee or make any representations regarding the use, results of use, accuracy, timeliness or completeness of any data or information relating to the sample code. Oracle + NetSuite Inc. disclaims all warranties, express or implied, and in particular, disclaims all warranties of merchantability, fitness for a particular purpose, and warranties related to the code, or any service or software related thereto. Oracle + NetSuite Inc. shall not be liable for any direct, indirect or consequential damages or costs of any type arising out of any action taken by you or others related to the sample code.
+This project is author opinionated and is not officially supported by Oracle + NetSuite Inc. The sample code included herein is provided on an "as is" basis, without warranty of any kind, to the fullest extent permitted by law. Oracle + NetSuite Inc. does not warrant or guarantee the individual success developers may have in implementing the sample code on their development platforms or in using their own Web server configurations. Oracle + NetSuite Inc. does not warrant, guarantee or make any representations regarding the use, results of use, accuracy, timeliness or completeness of any data or information relating to the sample code. Oracle + NetSuite Inc. disclaims all warranties, express or implied, and in particular, disclaims all warranties of merchantability, fitness for a particular purpose, and warranties related to the code, or any service or software related thereto. Oracle + NetSuite Inc. shall not be liable for any direct, indirect or consequential damages or costs of any type arising out of any action taken by you or others related to the sample code.
